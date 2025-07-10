@@ -1,0 +1,15 @@
+{
+  "specFlow": {
+    "language": { "feature": "fr" },
+    "bindingCulture": { "name": "fr" },
+    "unitTestProvider": {
+      "name": "xunit",
+      "runtimeProvider": "xunit"
+    },
+    "trace": {
+      "traceSuccessfulSteps": true,
+      "traceTimings": true,
+      "minTracedDuration": "0:0:0.000"
+    }
+  }
+}
