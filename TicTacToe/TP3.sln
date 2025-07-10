@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3_Class", "TP2_Class\TP3_Class.csproj", "{DA0A4185-D1FD-4D55-857B-4C15B422A760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3_SpecFlow", "TP2_SpecFlow\TP2_SpecFlow\TP3_SpecFlow.csproj", "{5332C58B-4F9D-E4AD-3B88-23C0D0CAC65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0A4185-D1FD-4D55-857B-4C15B422A760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0A4185-D1FD-4D55-857B-4C15B422A760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0A4185-D1FD-4D55-857B-4C15B422A760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0A4185-D1FD-4D55-857B-4C15B422A760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5332C58B-4F9D-E4AD-3B88-23C0D0CAC65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5332C58B-4F9D-E4AD-3B88-23C0D0CAC65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5332C58B-4F9D-E4AD-3B88-23C0D0CAC65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5332C58B-4F9D-E4AD-3B88-23C0D0CAC65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54234230-20C6-4AA0-88A3-9DBB6A4E9ED6}
+	EndGlobalSection
+EndGlobal
