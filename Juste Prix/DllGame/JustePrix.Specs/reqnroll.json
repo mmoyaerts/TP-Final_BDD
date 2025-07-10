@@ -1,0 +1,10 @@
+{
+  "specFlow": {
+    "language": { "feature": "fr" },
+    "bindingCulture": { "name": "fr" },
+    "unitTestProvider": {
+      "name": "xunit",
+      "runtimeProvider": "xunit"
+    }
+  }
+}
